@@ -3,26 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://hybrid.network/dapps/1/</loc>
+    <loc>http://hybrid.network/events/datavizbounty/</loc>
   </url>
   
   <url>
-    <loc>https://hybrid.network/categories/</loc>
+    <loc>http://hybrid.network/events/hxrc1bounty/</loc>
+  </url>
+  
+  <url>
+    <loc>http://hybrid.network/events/hxrc1testnet/</loc>
+  </url>
+  
+  <url>
+    <loc>http://hybrid.network/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hybrid.network/</loc>
+    <loc>http://hybrid.network/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hybrid.network/page/</loc>
+    <loc>http://hybrid.network/page/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hybrid.network/tags/</loc>
+    <loc>http://hybrid.network/tags/</loc>
     <priority>0</priority>
   </url>
   

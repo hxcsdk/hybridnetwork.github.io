@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Hybrid.Network</title>
-    <link>https://hybrid.network/tags/</link>
+    <link>http://hybrid.network/tags/</link>
     <description>Recent content in Tags on Hybrid.Network</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://hybrid.network/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://hybrid.network/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
